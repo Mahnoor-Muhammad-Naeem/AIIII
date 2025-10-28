@@ -44,7 +44,6 @@ WhatsApp Trigger  ──▶  AI Agent (LangChain)
 | Error (404) | ![Error](screenshots/json_20.png) |
 
 
-
 ---
 
 ## 3) Node‑by‑Node Setup
