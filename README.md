@@ -33,10 +33,10 @@ WhatsApp Trigger  ──▶  AI Agent (LangChain)
 The following screenshots document the full setup and an example run.
 
 - **Full Canvas (alt view)**  
-  ![Full Canvas](./screenshots/WhatsApp Bot.png)
+  ![Full Canvas](.WhatsApp Bot.png)
 
 - **Workflow Canvas**  
-  ![Workflow Canvas](./screenshots/whatsapp_bot.png)
+  ![Workflow Canvas](./whatsapp_bot.png)
 
 - **Chat Received (Trigger)**  
   ![WhatsApp Trigger](./screenshots/chat received.png)
