@@ -28,38 +28,21 @@ WhatsApp Trigger  ──▶  AI Agent (LangChain)
 
 ---
 
-## 2) Screenshots
+## 📸 Project Screenshots
 
-The following screenshots document the full setup and an example run.
+| Description | Screenshot |
+|---|---|
+| Home | ![Home](screenshots/home.png) |
+| Products | ![Products](screenshots/products.png) |
+| About | ![About](screenshots/about.png) |
+| Contact | ![Contact](screenshots/contact.png) |
+| Nested Route (Info) | ![Info](screenshots/contact_info.png) |
+| Nested Route (Form) | ![Form](screenshots/contact_form.png) |
+| Jobs | ![Jobs](screenshots/jobs.png) |
+| Jobs | ![Jobs](screenshots/all_jobs_json.png) |
+| Jobs | ![Jobs](screenshots/json_1.png) |
+| Error (404) | ![Error](screenshots/json_20.png) |
 
-- **Full Canvas (alt view)**  
-  ![Full Canvas](.WhatsApp Bot.png)
-
-- **Workflow Canvas**  
-  ![Workflow Canvas](./whatsapp_bot.png)
-
-- **Chat Received (Trigger)**  
-  ![WhatsApp Trigger](./screenshots/chat received.png)
-
-- **AI Agent (LangChain)**  
-  ![AI Agent Node](./screenshots/ai agent.png)
-
-- **Google Gemini Chat Model**  
-  ![Gemini Model Node](./screenshots/google gemini.png)
-
-- **Simple Memory (Buffer Window)**  
-  ![Memory Node](./screenshots/simple memory.png)
-
-- **Send Message (WhatsApp)**  
-  ![Send Message Node](./screenshots/send message.png)
-
-- **Agent Output (example)**  
-  ![Agent Output JSON](./screenshots/ai agent output.png)
-
-- **WhatsApp Chat (example)**  
-  ![WhatsApp Chat](./screenshots/chat.png)
-
-> If your viewer doesn’t inline images from relative paths, open each link directly.
 
 
 ---
