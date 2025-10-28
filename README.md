@@ -30,17 +30,33 @@ WhatsApp Trigger  ──▶  AI Agent (LangChain)
 
 ## 📸 Project Screenshots
 
-| Description | Screenshot |
-|---|---|
-| Full Canvas (alt view) | ![Full Canvas](./Full%20Canvas.png) |
-| Workflow Canvas | ![Workflow Canvas](./Workflow%20Canvas.png) |
-| Chat Received (Trigger) | ![Chat Received](./Chat%20Received.png) |
-| AI Agent (LangChain) | ![AI Agent](./AI%20Agent.png) |
-| Google Gemini Chat Model | ![Google Gemini Chat Model](./Google%20Gemini%20Chat%20Model.png) |
-| Simple Memory (Buffer Window) | ![Simple Memory (Buffer Window)](./Simple%20Memory%20(Buffer%20Window).png) |
-| Send Message (WhatsApp) | ![Send Message](./Send%20Message.png) |
-| Agent Output (example) | ![Agent Output (example)](./Agent%20Output%20(example).png) |
-| WhatsApp Chat (example) | ![WhatsApp Chat](./WhatsApp%20Chat.png) |
+### Full Canvas (alt view)
+![Full Canvas](./Full%20Canvas.png)
+
+### Workflow Canvas
+![Workflow Canvas](./Workflow%20Canvas.png)
+
+### Chat Received (Trigger)
+![Chat Received](./Chat%20Received.png)
+
+### AI Agent (LangChain)
+![AI Agent](./AI%20Agent.png)
+
+### Google Gemini Chat Model
+![Google Gemini Chat Model](./Google%20Gemini%20Chat%20Model.png)
+
+### Simple Memory (Buffer Window)
+![Simple Memory (Buffer Window)](./Simple%20Memory%20(Buffer%20Window).png)
+
+### Send Message (WhatsApp)
+![Send Message](./Send%20Message.png)
+
+### Agent Output (example)
+![Agent Output (example)](./Agent%20Output%20(example).png)
+
+### WhatsApp Chat (example)
+![WhatsApp Chat](./WhatsApp%20Chat.png)
+
 
 ---
 
