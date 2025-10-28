@@ -33,33 +33,34 @@ WhatsApp Trigger  ──▶  AI Agent (LangChain)
 The following screenshots document the full setup and an example run.
 
 - **Full Canvas (alt view)**  
-  ![Full Canvas](sandbox:/mnt/data/WhatsApp%20Bot.png)
+  ![Full Canvas](./screenshots/WhatsApp Bot.png)
 
 - **Workflow Canvas**  
-  ![Workflow Canvas](sandbox:/mnt/data/whatsapp_bot.png)
+  ![Workflow Canvas](./screenshots/whatsapp_bot.png)
 
 - **Chat Received (Trigger)**  
-  ![WhatsApp Trigger](sandbox:/mnt/data/chat%20received.png)
+  ![WhatsApp Trigger](./screenshots/chat received.png)
 
 - **AI Agent (LangChain)**  
-  ![AI Agent Node](sandbox:/mnt/data/ai%20agent.png)
+  ![AI Agent Node](./screenshots/ai agent.png)
 
 - **Google Gemini Chat Model**  
-  ![Gemini Model Node](sandbox:/mnt/data/google%20gemini.png)
+  ![Gemini Model Node](./screenshots/google gemini.png)
 
 - **Simple Memory (Buffer Window)**  
-  ![Memory Node](sandbox:/mnt/data/simple%20memory.png)
+  ![Memory Node](./screenshots/simple memory.png)
 
 - **Send Message (WhatsApp)**  
-  ![Send Message Node](sandbox:/mnt/data/send%20message.png)
+  ![Send Message Node](./screenshots/send message.png)
 
 - **Agent Output (example)**  
-  ![Agent Output JSON](sandbox:/mnt/data/ai%20agent%20output.png)
+  ![Agent Output JSON](./screenshots/ai agent output.png)
 
 - **WhatsApp Chat (example)**  
-  ![WhatsApp Chat](sandbox:/mnt/data/chat.png)
+  ![WhatsApp Chat](./screenshots/chat.png)
 
-> If your viewer doesn’t inline images from `sandbox:`, open each link directly.
+> If your viewer doesn’t inline images from relative paths, open each link directly.
+
 
 ---
 
