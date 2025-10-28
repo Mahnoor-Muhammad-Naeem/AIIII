@@ -32,17 +32,15 @@ WhatsApp Trigger  ──▶  AI Agent (LangChain)
 
 | Description | Screenshot |
 |---|---|
-| Home | ![Home](screenshots/home.png) |
-| Products | ![Products](screenshots/products.png) |
-| About | ![About](screenshots/about.png) |
-| Contact | ![Contact](screenshots/contact.png) |
-| Nested Route (Info) | ![Info](screenshots/contact_info.png) |
-| Nested Route (Form) | ![Form](screenshots/contact_form.png) |
-| Jobs | ![Jobs](screenshots/jobs.png) |
-| Jobs | ![Jobs](screenshots/all_jobs_json.png) |
-| Jobs | ![Jobs](screenshots/json_1.png) |
-| Error (404) | ![Error](screenshots/json_20.png) |
-
+| Full Canvas (alt view) | ![Full Canvas](./Full%20Canvas.png) |
+| Workflow Canvas | ![Workflow Canvas](./Workflow%20Canvas.png) |
+| Chat Received (Trigger) | ![Chat Received](./Chat%20Received.png) |
+| AI Agent (LangChain) | ![AI Agent](./AI%20Agent.png) |
+| Google Gemini Chat Model | ![Google Gemini Chat Model](./Google%20Gemini%20Chat%20Model.png) |
+| Simple Memory (Buffer Window) | ![Simple Memory (Buffer Window)](./Simple%20Memory%20(Buffer%20Window).png) |
+| Send Message (WhatsApp) | ![Send Message](./Send%20Message.png) |
+| Agent Output (example) | ![Agent Output (example)](./Agent%20Output%20(example).png) |
+| WhatsApp Chat (example) | ![WhatsApp Chat](./WhatsApp%20Chat.png) |
 
 ---
 
